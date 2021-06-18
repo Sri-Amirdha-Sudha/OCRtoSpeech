@@ -9,4 +9,7 @@ This project is developed with the help of Tesseract, Google APIs for translate 
 3. Then the text is extracted from it an then fed as an input for gTTS, which is a python library and a CLI tool to interface with Google API. (for english version of the text, refer repository English.mp3)
 4. The text obtained from the image is given as an input to the googletrans,which is also a python library that implements Google translate API.
 5. The text can be converted to the set of native languages that are being offered by googletrans.
-6. Again the gTTS is being used to read out the text aloud in specified languages (for native version of the text, refer repository Native.mp3)
+6. Again the gTTS is being used to read out the text aloud in specified languages (for native version of the text, refer repository Native.mp3)  
+
+
+https://user-images.githubusercontent.com/58415948/122542349-388e3a80-d048-11eb-8d4d-4f51d4f4b706.mp4
